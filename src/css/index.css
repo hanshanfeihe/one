@@ -1,0 +1,22 @@
+/*基础样式 */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* .row {
+  max-width: 878px;
+} */
+
+.container {
+  max-width: 878px;
+}
+
+/* .row>[class^="col-"] {
+  padding: 0px;
+} */
+
+#root {
+  margin: 10px auto;
+  background-color: white;
+}
