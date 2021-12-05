@@ -1,6 +1,8 @@
+import 'bootstrap/js/dist/carousel'
 import React from 'react'
 import ReactDOM from 'react-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap'
 import { BrowserRouter, HashRouter } from 'react-router-dom'
 import { Route, Routes } from 'react-router-dom'
 import Detail from './components/detail/detail'
